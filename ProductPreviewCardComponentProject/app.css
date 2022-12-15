@@ -1,0 +1,57 @@
+img{
+    height: 52vh;
+}
+.right{
+    padding: 1.5em;
+    background-color: white;
+    height: 45vh;
+}
+
+.wrapper{
+    display: flex;
+    width: 35%;
+    padding: 5em;
+    background-color: hsl(30, 38%, 92%);
+    font-size: 14px;
+}
+
+section{
+    justify-content: space-between;
+    padding: 0.5em;
+}
+
+button{
+    padding: 0.5em;
+    margin-top: 1em;
+    width: 100%;
+    border-radius: 0.5em;
+    background-color: darkgreen;
+    color: white;
+}
+
+.descTwo{
+    width: 95%;
+    display: flex;
+}
+.titleTwo{
+    width: 45%;
+    display: flex;
+    font-family: Fraunces, sans-serif;
+    font-weight: 700;
+}
+
+.priceTwoo{
+    text-decoration: line-through;
+    margin-left: 1em;
+}
+
+.brand{
+    text-transform: uppercase;
+}
+
+.priceOnee{
+
+    font-family: Fraunces, sans-serif;
+    font-weight: 700;
+    color:darkgreen;
+}
